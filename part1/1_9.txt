@@ -1,0 +1,3 @@
+$ docker run -d -p 80 --name ports devopsdockeruh/ports_exercise
+$ docker port ports
+(browser): https://localhost:32768
